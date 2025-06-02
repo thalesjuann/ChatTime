@@ -14,7 +14,7 @@ ChatTime é um aplicativo de chat em tempo real com autenticação via Firebase,
 
 ![preview](./src/assets/img/preview.png)
 
-🔗 **[Clique aqui para abrir e testar o projeto](https://github.com)**
+🔗 **[Clique aqui para abrir e testar o projeto](https://chattime-jkcb.onrender.com/)**
 
 ## 🔧 Pré-requisitos
 
