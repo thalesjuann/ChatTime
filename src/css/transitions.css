@@ -1,0 +1,23 @@
+.fade-slide {
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.fade-slide.inactive {
+    opacity: 0;
+    transform: translateY(20px);
+    pointer-events: none;
+    position: absolute;
+    top: 0; left: 0; right: 0;
+}
+
+.fade-slide.active {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+    position: relative;
+}
+
+#formContainer {
+    position: relative;
+    min-height: 280px;
+  }
